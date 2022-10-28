@@ -5,4 +5,4 @@ This single-page website was created in JavaScript, making use of the Strata sit
 The portfolio site contains a description of my coding experience, my contact details, and a linked list of various development projects I've worked on.
 
 - To run the site locally in development mode, you can open _index.html_.
-- To view the deployed website, you can visit hhttps://jen-jen91.github.io/
+- To view the deployed website, you can visit https://jen-jen91.github.io/
